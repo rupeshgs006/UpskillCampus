@@ -18,6 +18,7 @@ This Python script allows you to shorten long URLs using the Bitly API. It promp
 3. Obtain a Bitly API token:
     - Sign up for a Bitly account if you don't have one.
     - Generate an access token from your Bitly account settings.
+    - and if not done cause error because give only 10 shortlinks in the month 
 
 4. Replace `'YOUR_BITLY_API_TOKEN'` with your actual Bitly API token in the script.
 
@@ -44,4 +45,4 @@ This Python script allows you to shorten long URLs using the Bitly API. It promp
 
 ---
 
-You can save this text in a file named `README.md` in the same directory as your Python script. This README provides a brief overview of the script, instructions for getting started, usage guidelines, and additional notes. Feel free to expand or customize it further based on your specific requirements.
+
