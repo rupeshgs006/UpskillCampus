@@ -1,7 +1,7 @@
 import requests
 
 # Replace 'YOUR_BITLY_API_TOKEN' with the provided API token
-BITLY_API_TOKEN = 'fa1239baa3c340b24911abd4154c639b742bfcef'
+BITLY_API_TOKEN = f'f17f496959520f654cfe9eee33cbba51e8368c25'
 
 # Define the headers with the Bitly API token
 headers = {
